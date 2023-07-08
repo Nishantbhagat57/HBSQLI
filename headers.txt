@@ -1,4 +1,2 @@
 User-Agent
-Referer
 X-Forwarded-For
-X-Host
