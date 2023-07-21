@@ -73,6 +73,7 @@ def onfile():
                console.print ("💉 [bold][cyan]Testing for Header: [/][/]", repr(header))
                console.print("⏱️ [bold][cyan]Response Time: [/][/]", repr(res_time))
                console.print("🐞 [bold][cyan]Status: [/][red]Vulnerable[/][/]")
+               console.print("🌐 [bold cyan]URL: [/][/]{} [bold cyan]is Vulnerable [⏱️ Response Time: {}][💉 Header: {}]".format(url, res_time, header))
                print()
          except (UnicodeDecodeError, AssertionError, TimeoutError, ConnectionRefusedError, SSLError, URLError, ConnectionResetError, httpx.RequestError) as e:
             print(f"The request was not successful due to: {e}")
@@ -125,6 +126,7 @@ def onurl():
             console.print ("💉 [bold][cyan]Testing for Header: [/][/]", repr(header))
             console.print("⏱️ [bold][cyan]Response Time: [/][/]", repr(res_time))
             console.print("🐞 [bold][cyan]Status: [/][red]Vulnerable[/][/]")
+            console.print("🌐 [bold cyan]URL: [/][/]{} [bold cyan]is Vulnerable [⏱️ Response Time: {}][💉 Header: {}]".format(url, res_time, header))
             print()       
       except (UnicodeDecodeError, AssertionError, TimeoutError, ConnectionRefusedError, SSLError, URLError, ConnectionResetError, httpx.RequestError) as e:
          print(f"The request was not successful due to: {e}")
